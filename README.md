@@ -1,1 +1,1 @@
-Just For OpenClash's Rule
+OpenClash的各种规则
