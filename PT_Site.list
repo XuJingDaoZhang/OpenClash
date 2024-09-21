@@ -49,12 +49,12 @@ DOMAIN-SUFFIX,soulvoice.club
 DOMAIN,audiences.me
 DOMAIN,t.audiences.me
 DOMAIN,tracker.cinefiles.info
+DOMAIN-SUFFIX,cinefiles.info
 DOMAIN-SUFFIX,audiences.me
 
 # 青蛙
 DOMAIN,tracker.qingwa.pro
 DOMAIN,tracker.qingwapt.org
-DOMAIN,www.qingwapt.org
 DOMAIN,www.qingwapt.com
 DOMAIN-SUFFIX,qingwa.pro
 DOMAIN-SUFFIX,qingwapt.org
