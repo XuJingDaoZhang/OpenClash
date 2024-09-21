@@ -87,9 +87,6 @@ DOMAIN,agsvpt.trackers.work
 DOMAIN,www.agsvpt.com
 DOMAIN-SUFFIX,agsvpt.com
 
-# 本地域名
-DOMAIN-SUFFIX,daonas.top
-
 # 360
 DOMAIN-SUFFIX,360.com
 DOMAIN-SUFFIX,360kuai.com
