@@ -1,1 +1,1 @@
-Just for OpenClash's Rule
+Just For OpenClash's Rule
