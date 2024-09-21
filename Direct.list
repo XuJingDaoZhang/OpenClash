@@ -8,6 +8,8 @@ DOMAIN-KEYWORD,mirror
 IP-CIDR,219.146.1.66/32,no-resolve
 
 #PT直连规则
+# FSM
+DOMAIN,fsm.name
 # 憨憨
 DOMAIN,hhanclub.top
 DOMAIN,tracker.hhan.club
