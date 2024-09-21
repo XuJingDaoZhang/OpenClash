@@ -1,10 +1,5 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
-# MyList
-# 域名后缀匹配
-DOMAIN-SUFFIX,time.windows.com
-DOMAIN-SUFFIX,lanzov.com
-DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,mirror
@@ -12,6 +7,88 @@ DOMAIN-KEYWORD,mirror
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
+#PT直连规则
+# 憨憨
+DOMAIN,hhanclub.top
+DOMAIN,tracker.hhan.club
+DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hhan.club
+
+# 月月
+DOMAIN,pt.keepfrds.com
+DOMAIN,tracker.keepfrds.com
+DOMAIN-SUFFIX,keepfrds.com
+
+# 海棠
+DOMAIN,www.htpt.cc
+DOMAIN-SUFFIX,htpt.cc
+
+# 皇后
+DOMAIN,tracker.open.cd
+DOMAIN,open.cd
+DOMAIN-SUFFIX,open.cd
+
+# 红叶
+DOMAIN,leaves.red
+DOMAIN,tracker.leaves.red
+DOMAIN,tracker2.leaves.red
+DOMAIN,tracker3.leaves.red
+DOMAIN-SUFFIX,leaves.red
+
+# 红豆饭
+DOMAIN,hdfans.org
+DOMAIN-SUFFIX,hdfans.org
+
+# 织梦
+DOMAIN,zmpt.cc
+DOMAIN-SUFFIX,zmpt.cc
+
+# Ubits
+DOMAIN,ubits.club
+DOMAIN-SUFFIX,ubits.club
+
+# 聆音
+DOMAIN,pt.soulvoice.club
+DOMAIN-SUFFIX,soulvoice.club
+
+# 观众
+DOMAIN,audiences.me
+DOMAIN,t.audiences.me
+DOMAIN,tracker.cinefiles.info
+DOMAIN-SUFFIX,audiences.me
+
+# 青蛙
+DOMAIN,tracker.qingwa.pro
+DOMAIN,www.qingwapt.com
+DOMAIN-SUFFIX,qingwa.pro
+DOMAIN-SUFFIX,qingwapt.com
+
+# 馒头
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN,tracker.m-team.cc
+DOMAIN,ipv6-tracker.m-team.cc
+DOMAIN,kp.m-team.cc
+
+# 高清杜比
+DOMAIN,t.hddolby.com
+DOMAIN,www.hddolby.com
+DOMAIN-SUFFIX,hddolby.com
+
+# 麒麟
+DOMAIN,tracker.hdkyl.in
+DOMAIN,www.hdkylin.top
+DOMAIN,www.hdkyl.in
+DOMAIN-SUFFIX,hdkyl.in
+DOMAIN-SUFFIX,hdkylin.top
+
+# 末日
+DOMAIN,agsvpt.trackers.work
+DOMAIN,www.agsvpt.com
+DOMAIN-SUFFIX,agsvpt.com
+
+# 本地域名
+DOMAIN-SUFFIX,daonas.top
 
 # 360
 DOMAIN-SUFFIX,360.com
