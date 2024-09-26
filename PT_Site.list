@@ -80,7 +80,14 @@ DOMAIN,www.hdkylin.top
 DOMAIN,www.hdkyl.in
 
 # 末日
-DOMAIN,agsvpt.trackers.work
+DOMAIN,bbs.agsvpt.cn
+DOMAIN,new.agsvpt.cn
 DOMAIN,www.agsvpt.com
+DOMAIN,tracker.agsvpt.cn
+DOMAIN,tracker.agsvpt.work
+DOMAIN,agsvpt.trackers.work
 DOMAIN-SUFFIX,agsv.top
+DOMAIN-SUFFIX,agsvpt.cn
+DOMAIN-SUFFIX,agsvpt.work
 DOMAIN-SUFFIX,agsvpt.com
+DOMAIN-SUFFIX,trackers.work
